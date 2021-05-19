@@ -1,0 +1,23 @@
+//
+#
+#
+#
+#
+#
+
+
+
+const char* UBIDOTS_TOKEN = "YOUR Id API Credential TOKEN NO."; 
+const char* WIFI_SSID = “YourNetworkName ";
+const char* WIFI_PASS = " YourPassword ";
+Ubidotsubidots(UBIDOTS_TOKEN, UBI_HTTP);
+constintoneWireBus = 4;
+OneWireoneWire(oneWireBus);
+DallasTemperaturesensors(&oneWire);
+
+
+
+#
+#
+#
+#
