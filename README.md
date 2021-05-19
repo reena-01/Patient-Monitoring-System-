@@ -10,7 +10,10 @@ The patient monitoring system is designed in a way that it can include one or mo
 
 Parameters:
 
-The LM35 device has an advantage over linear temperature sensors calibrated in Kelvin, as the user is not required to subtract a large constant voltage from the output to obtain conveniently Centigrade scaling.
-Heartbeat sensor digital output can be connected to the microcontroller directly to measure the Beats Per Minute (BPM) rate. It works on the principle of light modulation by blood flow through the finger at each pulse.
+>> The LM35 device has an advantage over linear temperature sensors calibrated in Kelvin, as the user is not required to subtract a large constant voltage from the output to obtain conveniently Centigrade scaling.
+
+
+
+>> Heartbeat sensor digital output can be connected to the microcontroller directly to measure the Beats Per Minute (BPM) rate. It works on the principle of light modulation by blood flow through the finger at each pulse.
 
 THIS MAY BE HELPFUL  IF SEEKING TO IMPOVE THE SOURCE OF PARAMETERS 
