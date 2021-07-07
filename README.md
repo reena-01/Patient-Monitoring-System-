@@ -16,4 +16,4 @@ Parameters:
 
 >> Heartbeat sensor digital output can be connected to the microcontroller directly to measure the Beats Per Minute (BPM) rate. It works on the principle of light modulation by blood flow through the finger at each pulse.
 
-THIS MAY BE HELPFUL  IF SEEKING TO IMPROVE THE SOURCE OF PARAMETERS 
+
